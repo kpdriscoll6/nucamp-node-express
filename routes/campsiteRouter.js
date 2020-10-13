@@ -1,6 +1,5 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const campsiteRouter = require('./routes/campsiteRouter');
 
 const campsiteRouter = express.Router();
 
